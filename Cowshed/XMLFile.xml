@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Cowshed>
+	<Cow id="1">
+		<Name>Buryonka</Name>
+		<Breed>Ayrshire</Breed>
+		<Age>4</Age>
+		<Rating>10</Rating>
+		<Farmer>
+			<Name>Vasily</Name>
+			<Experience>High</Experience>
+		</Farmer>
+		<Shed>
+			<Square>Large</Square>
+			<Cleanliness>Enough</Cleanliness>
+		</Shed>
+	</Cow>
+	
+	<Cow id="2">
+		<Name>Snezhinka</Name>
+		<Breed>Jersey</Breed>
+		<Age>2</Age>
+		<Rating>7</Rating>
+		<Farmer>
+			<Name>Zhenya</Name>
+			<Experience>High</Experience>
+		</Farmer>
+		<Shed>
+			<Square>Average</Square>
+			<Cleanliness>Enough</Cleanliness>
+		</Shed>
+	</Cow>
+	
+	<Cow id="3">
+		<Name>Golchachak</Name>
+		<Breed>Holstein</Breed>
+		<Age>13</Age>
+		<Rating>6</Rating>
+		<Farmer>
+			<Name>Rail</Name>
+			<Experience>Medium</Experience>
+		</Farmer>
+		<Shed>
+			<Square>Large</Square>
+			<Cleanliness>Good</Cleanliness>
+		</Shed>
+	</Cow>
+</Cowshed>

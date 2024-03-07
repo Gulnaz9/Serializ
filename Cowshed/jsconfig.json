@@ -1,0 +1,49 @@
+{
+  "Cowshed": {
+    "Cow": [
+      {
+        "Name": "Buryonka",
+        "Breed": "Ayrshire",
+        "Age": 4,
+        "Rating": 10,
+        "Master": {
+          "Name": "Vasily",
+          "Experience": "High"
+        },
+        "Shed": {
+          "Square": "Large",
+          "Cleanliness": "Enough"
+        }
+      },
+      {
+        "Name": "Snezhinka",
+        "Breed": "Jersey",
+        "Age": 2,
+        "Rating": 7,
+        "Master": {
+          "Name": "Zhenya",
+          "Experience": "High"
+        },
+        "Shed": {
+          "Square": "Average",
+          "Cleanliness": "Enough"
+        }
+      },
+      {
+        "Name": "Golchachak",
+        "Breed": "Holstein",
+        "Age": 13,
+        "Rating": 6,
+        "Master": {
+          "Name": "Rail",
+          "Experience": "Medium"
+        },
+        "Shed": {
+          "Square": "Large",
+          "Cleanliness": "Good"
+        }
+      }
+    ]
+  }
+
+}
